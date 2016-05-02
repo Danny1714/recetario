@@ -1,0 +1,2 @@
+# recetario
+Practica Django
